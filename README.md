@@ -39,4 +39,4 @@ Bu bootcamp, veri bilimi ve makine öğrenmesi temellerinden başlayarak gerçek
 
 ---
 
-📫 Sorularınız için: [LinkedIn](https://www.linkedin.com/) üzerinden ulaşabilirsiniz.
+📫 Sorularınız için: [LinkedIn](https://www.linkedin.com/in/selimcagan) üzerinden ulaşabilirsiniz.
