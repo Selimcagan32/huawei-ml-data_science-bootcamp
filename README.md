@@ -6,8 +6,8 @@ Bu repo, **Huawei** ile **Türkiye Yapay Zeka Akademisi** iş birliğinde düzen
 
 | Klasör / Dosya | Açıklama |
 |---|---|
-| [`Makine_ogrenmesi_Ara_odev/`](./Makine_ogrenmesi_Ara_odev) | Makine öğrenmesi ara ödevi — Telco Customer Churn veri seti üzerinde sınıflandırma çalışması |
-| [`Makine_ogrenmesi_Final_odev/`](./Makine_ogrenmesi_Final_odev) | Makine öğrenmesi final ödevi — NASA C-MAPSS turbofan veri seti ile kalan faydalı ömür (RUL) tahmini |
+| [`Makine_ogrenmesi_Ara_odev/`](./Makine_ogrenmesi_Ara_odev) | Makine öğrenmesi ara ödevi — 150 satırlık sentetik müşteri verisiyle temel churn sınıflandırması (Logistic Regression, KNN, Decision Tree) |
+| [`Makine_ogrenmesi_Final_odev/`](./Makine_ogrenmesi_Final_odev) | Makine öğrenmesi final ödevi — gerçek Telco Customer Churn verisiyle (~7.000 müşteri) uçtan uca churn tahmini; Random Forest, GridSearchCV ile hiperparametre ayarı, ROC-AUC değerlendirmesi |
 | [`data_science/`](./data_science) | Veri bilimi modülü kapsamındaki alıştırma ve notlar |
 | [`machine_learning/`](./machine_learning) | Makine öğrenmesi modülü kapsamındaki alıştırma ve notlar |
 | [`python/`](./python) | Python temelleri modülü kapsamındaki alıştırma ve notlar |
